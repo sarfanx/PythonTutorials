@@ -1,0 +1,8 @@
+'''python is an interpreted language and also supported compile and run. this enables the developers quickly check their code while developing
+and also reduces developing time '''
+
+#Hello World! aplication
+
+print ("hello world!") 
+
+#The above command will output the text "hello world!" on the console.
