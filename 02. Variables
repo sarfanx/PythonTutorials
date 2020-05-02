@@ -1,0 +1,13 @@
+''' Variables are used to store repetedly used and hard to remember values
+eg:
+creditCardNumber = "2563-5268-8569-8855"
+vatNumber = 5689568955
+
+'''
+
+#variables can be any alpha numeric combinations except the reserves python words.
+#variables can start with alphabatic charector or underscore
+#  creditCard, Credit91Crd, Credit912, _creditcard, credit_card all are alowed cariables in python
+# but 91credit (number at the begining), $credit ($ is not alpha numeric), credit&d(& is not alpha numeric) etc are invalid variable names
+#variables are case sensitive
+# creditCard, CreditCard, creditcard, Creditcard are different variables.
